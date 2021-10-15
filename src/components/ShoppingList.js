@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import { findDOMNode } from "react-dom";
+// import { findDOMNode } from "react-dom";
 import Item from "./Item";
 
 function ShoppingList({ items }) {
